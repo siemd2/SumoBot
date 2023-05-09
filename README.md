@@ -1,4 +1,4 @@
-# AC Robotics SumoBots Companion 🤖
+# AC Robotics SumoBots Project 🤖
 
 Welcome to my **AC Robotics SumoBots** repository! This project is designed to provide all the necessary software for programming an Arduino-based SumoBot.
 
