@@ -2,7 +2,7 @@
 
 ![SumoBots Banner](./assets/sumobots-banner.png)
 
-Welcome to my **AC Robotics SumoBots** repository! This project is designed to provide all the necessary software for programming an Arduino-based SumoBot. This repository is and it's open to everyone.
+Welcome to my **AC Robotics SumoBots** repository! This project is designed to provide all the necessary software for programming an Arduino-based SumoBot.
 
 ## 🌟 Features
 
@@ -65,7 +65,6 @@ These tutorials and examples will guide you through the process of assembling yo
 ## 📄 License
 
 This project is licensed under the MIT License. For more information, please see the [LICENSE](./LICENSE) file.
-
 
 
 Happy building! 🚀
