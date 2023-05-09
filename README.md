@@ -12,11 +12,11 @@ Welcome to my **AC Robotics SumoBots** repository! This project is designed to p
 
 ## 📚 Table of Contents
 
-1. [Getting Started](#getting-started)
-2. [Hardware Requirements](#hardware-requirements)
-3. [Software Setup](#software-setup)
-4. [Tutorials and Examples](#tutorials-and-examples)
-5. [License](#license)
+1. Getting Started
+2. Hardware Requirements
+3. Software Setup
+4. Tutorials and Examples
+5. License
 
 ## 🚀 Getting Started
 
